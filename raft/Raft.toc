@@ -1,0 +1,35 @@
+\contentsline {section}{\numberline {1}lab2-A leader election}{3}{}%
+\contentsline {subsection}{\numberline {1.1}任务分析}{3}{}%
+\contentsline {subsection}{\numberline {1.2}功能设计}{3}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}完善Raft结构体}{3}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}完善GetState函数}{5}{}%
+\contentsline {subsubsection}{\numberline {1.2.3}完善RequestVote功能}{5}{}%
+\contentsline {subsubsection}{\numberline {1.2.4}实现AppendEntries功能}{5}{}%
+\contentsline {subsubsection}{\numberline {1.2.5}完善ticker函数}{6}{}%
+\contentsline {subsubsection}{\numberline {1.2.6}实现heartbeat函数}{7}{}%
+\contentsline {subsubsection}{\numberline {1.2.7}完善Make函数}{7}{}%
+\contentsline {subsection}{\numberline {1.3}代码实现}{7}{}%
+\contentsline {subsection}{\numberline {1.4}测试结果}{16}{}%
+\contentsline {subsection}{\numberline {1.5}个人总结}{17}{}%
+\contentsline {section}{\numberline {2}lab2-B log}{17}{}%
+\contentsline {subsection}{\numberline {2.1}任务分析}{17}{}%
+\contentsline {subsection}{\numberline {2.2}功能设计}{18}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}实现LogEntry结构体}{18}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}实现Start函数}{18}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}继续完善AppendEntries函数}{19}{}%
+\contentsline {subsubsection}{\numberline {2.2.4}继续完善heartBeats函数}{20}{}%
+\contentsline {subsubsection}{\numberline {2.2.5}继续完善ticker函数}{20}{}%
+\contentsline {subsubsection}{\numberline {2.2.6}继续完善Make函数}{21}{}%
+\contentsline {subsection}{\numberline {2.3}代码实现}{21}{}%
+\contentsline {subsection}{\numberline {2.4}测试结果}{29}{}%
+\contentsline {subsection}{\numberline {2.5}个人总结}{30}{}%
+\contentsline {section}{\numberline {3}lab2-C persistence}{30}{}%
+\contentsline {subsection}{\numberline {3.1}任务分析}{30}{}%
+\contentsline {subsection}{\numberline {3.2}功能设计}{31}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}完善persist函数}{31}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}完善readPersist函数}{31}{}%
+\contentsline {subsection}{\numberline {3.3}代码实现}{31}{}%
+\contentsline {subsection}{\numberline {3.4}测试结果}{33}{}%
+\contentsline {subsection}{\numberline {3.5}个人总结}{34}{}%
+\contentsline {section}{\numberline {4}心得体会}{34}{}%
+\contentsline {section}{\numberline {5}参考资料}{34}{}%

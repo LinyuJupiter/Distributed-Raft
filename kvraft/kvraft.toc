@@ -1,0 +1,35 @@
+\contentsline {section}{\numberline {1}lab3-A kv server}{3}{}%
+\contentsline {subsection}{\numberline {1.1}任务分析}{3}{}%
+\contentsline {subsection}{\numberline {1.2}common功能设计}{3}{}%
+\contentsline {subsection}{\numberline {1.3}client功能设计}{3}{}%
+\contentsline {subsubsection}{\numberline {1.3.1}完善Clerk结构体}{3}{}%
+\contentsline {subsubsection}{\numberline {1.3.2}完善MakeClerk函数}{3}{}%
+\contentsline {subsubsection}{\numberline {1.3.3}完善Get函数}{4}{}%
+\contentsline {subsubsection}{\numberline {1.3.4}完善PutAppend函数}{4}{}%
+\contentsline {subsection}{\numberline {1.4}server功能设计}{4}{}%
+\contentsline {subsubsection}{\numberline {1.4.1}完善Op结构体}{4}{}%
+\contentsline {subsubsection}{\numberline {1.4.2}完善KVServer结构体}{4}{}%
+\contentsline {subsubsection}{\numberline {1.4.3}完善Get函数}{5}{}%
+\contentsline {subsubsection}{\numberline {1.4.4}完善PutAppend函数}{5}{}%
+\contentsline {subsubsection}{\numberline {1.4.5}设计executeThread函数}{5}{}%
+\contentsline {subsubsection}{\numberline {1.4.6}完善StartKVServer函数}{6}{}%
+\contentsline {subsection}{\numberline {1.5}代码实现}{6}{}%
+\contentsline {subsection}{\numberline {1.6}测试结果}{14}{}%
+\contentsline {subsection}{\numberline {1.7}个人总结}{15}{}%
+\contentsline {section}{\numberline {2}lab3-B snapshot}{15}{}%
+\contentsline {subsection}{\numberline {2.1}lab2D任务分析}{15}{}%
+\contentsline {subsection}{\numberline {2.2}lab3B任务分析}{15}{}%
+\contentsline {subsection}{\numberline {2.3}lab2D功能设计}{16}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}调整Raft结构体}{16}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}实现Snapshot函数}{16}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}实现InstallSnapshot功能}{16}{}%
+\contentsline {subsubsection}{\numberline {2.3.4}调整Start函数}{17}{}%
+\contentsline {subsection}{\numberline {2.4}lab3B功能设计}{17}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}修改executeThread函数}{17}{}%
+\contentsline {subsubsection}{\numberline {2.4.2}修改StartKVServer函数}{18}{}%
+\contentsline {subsection}{\numberline {2.5}lab2D代码实现}{18}{}%
+\contentsline {subsection}{\numberline {2.6}lab3B代码实现}{26}{}%
+\contentsline {subsection}{\numberline {2.7}测试结果}{27}{}%
+\contentsline {subsection}{\numberline {2.8}个人总结}{28}{}%
+\contentsline {section}{\numberline {3}心得体会}{28}{}%
+\contentsline {section}{\numberline {4}参考资料}{29}{}%
